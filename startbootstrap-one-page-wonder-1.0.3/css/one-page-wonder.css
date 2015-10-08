@@ -1,0 +1,403 @@
+/*!
+ * Start Bootstrap - One Page Wonder HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background: url("http://offclouds.com/data_images/wallpapers/32/362746-mooncake.jpg") no-repeat center center fixed;
+        -webkit-background-size: cover;
+        moz-background-size: cover;
+        -o-background-size: cover;
+    background-repeat: no-repeat;
+    /*background-size:cover;*/
+    overflow-y:hidden;
+    overflow-x:hidden;
+}
+
+.elbowRoom{
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.center{
+    text-align:center;
+}
+
+.contact{
+    margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-image: url("http://www.the350degreeoven.com/wp-content/uploads/2012/09/DSC_1671fix.jpg") no-repeat center center fixed;
+    height: 100%;
+    background-position: center;
+    background-size:cover;
+    overflow-y:hidden;
+    overflow-x:hidden;
+}
+.product{
+    margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-image: url("http://www.jetlagged.org/wp-content/uploads/2010/09/mooncakes.jpg");
+    height: 100%;
+    background-position: center;
+    background-size:cover;
+    overflow-y:hidden;
+    overflow-x:hidden;
+}
+.about{
+    margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-image: url("http://www.the350degreeoven.com/wp-content/uploads/2012/09/DSC_1671fix.jpg");
+    height: 100%;
+    background-position: center;
+    background-size:cover;
+    overflow-y:hidden;
+    overflow-x:hidden;
+}
+.noDecor:hover{ 
+    text-decoration:none;
+    color:black;
+}
+
+.noDecor{
+    text-decoration:none;
+    color:#696969;
+}
+.stacked {
+	padding: 30px 50px;
+}
+.contact {
+    text-align: center;
+    color: #fff;
+   /*background: url(images/dark_embroidery.png); */
+   background-color: #222222;
+}
+.contact img {
+	width: 50px;
+	margin-left: 15px;
+	margin-right: 15px;
+	border-radius: 50%;
+	border: 5px white dotted;
+}
+
+.contact img:hover {
+	opacity: 0.9;
+}
+
+.smallerText{
+    font-size:18px;
+    margin: 15px 35px 0px 35px;
+}
+
+/*Jo*/
+.topMargin{
+    margin-top:-50px;
+}
+
+.bg{
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+
+.grid{
+    width:250px;
+    height:300px;
+    box-shadow: 0px 4px 3px #000;
+    text-align:center;
+    margin:50px 10px 10px 10px;
+}
+
+.grid2{
+    width:250px;
+    height:300px;
+    margin:10px 10px 10px 10px;
+}
+
+.xtraSmallerText{
+    font-size:18px;
+}
+
+
+.img1:hover{
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+    color:inherit;
+    
+}
+
+.img1{
+    color:#696969;
+    color: rgba(255,255,255,0.0);
+    background-image:url("https://41.media.tumblr.com/981bacea1bf13c1c274d5659582e41e7/tumblr_nvwl35c7jT1tumtzlo1_1280.jpg");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    
+}
+
+.img2:hover{
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+    color:inherit;
+    
+}
+
+
+.img2{
+    color:#696969;
+    color: rgba(255,255,255,0.0);
+    background-image:url("https://41.media.tumblr.com/5da13e444b83e573534d45b277b16186/tumblr_nvwl35c7jT1tumtzlo5_1280.jpg");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.img3:hover{
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+    color:inherit;
+    
+}
+
+
+.img3{
+    color:#696969;
+    color: rgba(255,255,255,0.0);
+    background-image:url("https://41.media.tumblr.com/78f8ab71556c923d294baf25d70a0d4e/tumblr_nvwl35c7jT1tumtzlo2_500.jpg");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.img4:hover{
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+    color:inherit;
+    
+}
+
+
+.img4{
+    color:#696969;
+    color: rgba(255,255,255,0.0);
+    background-image:url("https://40.media.tumblr.com/bc26e7009283b408908b275dcdb6861a/tumblr_nvwl35c7jT1tumtzlo3_1280.jpg");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+
+.img5:hover{
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+    color:inherit;
+    
+}
+
+
+.img5{
+    color:#696969;
+    color: rgba(255,255,255,0.0);
+    background-image:url("https://41.media.tumblr.com/c3870d361ba821fd504241feba3e60be/tumblr_nvwl35c7jT1tumtzlo4_1280.jpg");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.moreMargin{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top:10px;
+}
+
+/*.topContainer{*/
+/*    border: white dotted 1px;*/
+/*}*/
+
+/*.block{*/
+/*    display:block;*/
+/*}*/
+
+
+/*.header-image {*/
+/*    display: block;*/
+/*    width: 100%;*/
+/*    text-align: center;*/
+/*    background: url('http://placehold.it/1900x500') no-repeat center center scroll;*/
+/*    -webkit-background-size: cover;*/
+/*    -moz-background-size: cover;*/
+/*    background-size: cover;*/
+/*    -o-background-size: cover;*/
+/*}*/
+
+.headline {
+    padding: 120px 0;
+}
+
+.headline h1 {
+    font-size: 130px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+
+.headline h2 {
+    font-size: 57px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+.headline2 {
+    padding: 120px 0;
+}
+
+.headline2 h1 {
+    font-size: 130px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+
+.headline2 h2 {
+    font-size: 57px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+
+.featurette-divider {
+    margin: 80px 0;
+}
+
+.featurette {
+    overflow: hidden;
+}
+
+.featurette-image.pull-left {
+    margin-right: 40px;
+}
+
+.featurette-image.pull-right {
+    margin-left: 40px;
+}
+
+.featurette-heading {
+    font-size: 50px;
+}
+
+/*footer {*/
+/*    margin: 50px 0;*/
+/*}*/
+
+
+@media(max-width:1200px) {
+    .headline h1 {
+        font-size: 140px;
+    }
+
+    .headline h2 {
+        font-size: 63px;
+    }
+
+    .featurette-divider {
+        margin: 50px 0;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 20px;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 20px;
+    }
+
+    .featurette-heading {
+        font-size: 35px;
+    }
+}
+
+@media(max-width:991px) {
+    .headline h1 {
+        font-size: 105px;
+    }
+
+    .headline h2 {
+        font-size: 50px;
+    }
+
+    .featurette-divider {
+        margin: 40px 0;
+    }
+
+    .featurette-image {
+        max-width: 50%;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 10px;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 10px;
+    }
+
+    .featurette-heading {
+        font-size: 30px;
+    }
+}
+
+@media(max-width:768px) {
+    .container {
+        margin: 0 15px;
+    }
+
+    .featurette-divider {
+        margin: 40px 0;
+    }
+
+    .featurette-heading {
+        font-size: 25px;
+    }
+}
+
+@media(max-width:668px) {
+    .headline h1 {
+        font-size: 70px;
+    }
+
+    .headline h2 {
+        font-size: 32px;
+    }
+
+    .featurette-divider {
+        margin: 30px 0;
+    }
+}
+
+@media(max-width:640px) {
+    .headline {
+        padding: 100px 0 100px 0;
+    }
+
+    .headline h1 {
+        font-size: 60px;
+    }
+
+    .headline h2 {
+        font-size: 30px;
+    }
+}
+
+@media(max-width:375px) {
+    .featurette-divider {
+        margin: 10px 0;
+    }
+
+    .featurette-image {
+        max-width: 100%;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .featurette-image.pull-right {
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+}
